@@ -1,5 +1,9 @@
 <h1>Hi, I'm Alinur! 👋</h1>
 <p>I'm a Software Engineering student, passionate about coding mobile apps and games. I'm diving into game dev with Unity. Excited to grow my skills and contribute to awesome IT projects!</p>
+## 🚀 What I Do
+- Develop **Flutter** mobile apps with **Dart** and **SQLite**, like an expense tracker with Google Maps API and a fitness goal tracker for workout logging.
+- Explore **Unity** game development, building projects like [*LabirinthCoinChallenge*](https://github.com/ValliKaz/LabirinthCoinChallenge).
+- Apply **Python** and **Java** from coursework to solve problems and build cool projects.
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -23,6 +27,12 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+  ## 🌟 Fun Facts
+- Boosted students’ math scores by 10–15% as a freelance tutor, sharpening my knack for explaining complex ideas.
+- Thrive in fast-paced environments, thanks to my café days at Marrone Rosso.
+- Always tinkering with new tech and game ideas!
+  ## 📊 GitHub Stats
+![Alinur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alinur&show_icons=true&theme=radical)
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
